@@ -1,6 +1,6 @@
-![best_script_realestate](https://github.com/reactpython/best_script_realestate/blob/master/best_script_realestate.gif)
+![best_script_realestate](https://github.com/reactpython/best_script_realestate/blob/master/best_script_realestate.gif?raw=true)
 
-Stable version 1.0.3
+Stable version 1.0.4
 
 ## This script can help you to start own Internet business anywhere in the world. The system allows you to run a super-modern, interactive and fast website.
 
